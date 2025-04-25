@@ -56,13 +56,10 @@
 ###
 
 <div align="center">
-  <img height="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHZnZmk2em1nbWMyZDd5eGk2a21xeDI3NTBnaTR0cHQ4bnVleWhyNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/O3zRVT9hpgRZWgXzaO/giphy.gif"  />
+  <img height="300"  
+ autoplay src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHZnZmk2em1nbWMyZDd5eGk2a21xeDI3NTBnaTR0cHQ4bnVleWhyNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/O3zRVT9hpgRZWgXzaO/giphy.gif"  />
 </div>
 
 ###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=@naznazj" alt="Layout with last medium posts"  />
-</div>
 
 ###
