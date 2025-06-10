@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:1F1F1F&height=200&section=header&text=Hey%20there%20👋%20I'm%20Joe!&fontSize=40&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Lifelong%20Learner&descSize=20&descAlignY=60" alt="Header"/>
+</p>
 <h1 align="center">Hey there 👋, I'm Joe!</h1>
 
 <p align="center">
@@ -66,4 +69,7 @@
   <a href="https://your-portfolio-site.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-lightgrey?style=for-the-badge&logo=wordpress" alt="Portfolio Badge"/>
   </a>
+</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F1F1F,100:58A6FF&height=120&section=footer" />
 </p>
