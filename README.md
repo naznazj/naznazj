@@ -17,8 +17,8 @@
 ---
 
 ## 🛠️ My Tech Stack
-<p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,angular,nodejs,express,html,css,tailwind,bootstrap,php,cs,dotnet,mysql,mongodb,git" height="50" alt="Tech Stack Icons" /></a>
+<p align="left">
+  <a href="#"><img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,angular,nodejs,express,html,css,tailwind,bootstrap,php,cs,dotnet,mysql,mongodb,git" height="70" alt="Tech Stack Icons" /></a>
 </p>
 
 ---
