@@ -1,65 +1,58 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="center">Hey there 👋, I'm Joe!</h1>
 
-###
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Creating+bugs+since+2022;Learning+something+new+everyday" alt="Typing SVG" />
+</p>
 
-<p align="left">My name is Joe and I'm a Full Stack Developer from Philippines</p>
+---
 
-###
+### 👨‍💻 About Me
+- 🚀 I'm a **Full Stack Developer** from the Philippines.
+- 🐛 Passionate about turning coffee into code... and sometimes bugs.
+- 📚 Currently learning **everything I can get my hands on**.
+- 💬 Ask me about: **React, Next.js, Node.js, .NET Core, Angular, PHP, and more!**
+- 🎯 2025 Goals: Contribute to open source, build SaaS side projects, and master backend architecture.
 
-<h2 align="left">About me</h2>
+---
 
-###
+### 🛠️ Tech Stack
+<p align="left">
+  <a href="#"><img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,angular,html,css,tailwind,bootstrap,php,cs,dotnet" height="50" alt="tech stack"/></a>
+</p>
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning it all</p>
+---
 
-###
+### 🔥 My Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" alt="Joe's GitHub stats" />
+</p>
 
-<h3 align="left">I code with</h3>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-</div>
+### ⚡ Fun Fact
+- 🦾 I automate things that I hate doing manually.
+- 🕹️ I break production more than I'd like to admit (but fix it fast!).
 
-###
+---
 
-<div align="left">
-</div>
+### 📫 Let's Connect!
+<p align="left">
+  <a href="https://linkedin.com/in/your-linkedin"><img src="https://skillicons.dev/icons?i=linkedin" height="30" alt="linkedin logo" /></a>
+  <a href="mailto:your.email@example.com"><img src="https://skillicons.dev/icons?i=gmail" height="30" alt="gmail logo" /></a>
+  <a href="https://your-portfolio-site.com"><img src="https://skillicons.dev/icons?i=wordpress" height="30" alt="portfolio logo" /></a>
+</p>
 
-###
+---
 
-<div align="center">
-  <img height="300"  
- autoplay src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHZnZmk2em1nbWMyZDd5eGk2a21xeDI3NTBnaTR0cHQ4bnVleWhyNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/O3zRVT9hpgRZWgXzaO/giphy.gif"  />
-</div>
+### 🎬 Random Dev Meme
+<p align="center">
+  <img src="https://media.giphy.com/media/O3zRVT9hpgRZWgXzaO/giphy.gif" height="300" alt="coding meme gif" />
+</p>
 
-###
+---
 
-###
+<!-- Feel free to replace 'your-github-username' and links with your real ones -->
