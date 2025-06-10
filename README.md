@@ -8,7 +8,6 @@
 
 ## 👨‍💻 About Me
 - 🚀 Full Stack Developer from **the Philippines** 🇵🇭
-- ☕ Code powered by coffee... and sometimes bugs 🐞
 - 📚 Currently mastering **.NET, React, Next.js, Angular, and Node.js**
 - 🎯 2025 Goals:  
   🧩 Contribute to **Open Source** | 🚀 Launch SaaS Projects | 🏗️ Master Backend Architecture
