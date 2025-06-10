@@ -1,58 +1,39 @@
-<h1 align="center">Hey there 👋, I'm Joe!</h1>
+<!-- Cyberpunk Glitch + Waves Interactive GitHub README -->
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=500&color=00FFD5&center=true&vCenter=true&width=500&lines=System+Initializing...;Welcome+to+Joe's+Cyber+Zone;Full+Stack+Developer;Bug+Hunter+%2F+Code+Breaker" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Creating+bugs+since+2022;Learning+something+new+everyday" alt="Typing SVG" />
+  <img src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" width="150" alt="glitch cat" />
 </p>
 
----
+<!-- Cyberpunk SVG Wave Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" height="4" alt="wave divider"/>
 
-### 👨‍💻 About Me
-- 🚀 I'm a **Full Stack Developer** from the Philippines.
-- 🐛 Passionate about turning coffee into code... and sometimes bugs.
-- 📚 Currently learning **everything I can get my hands on**.
-- 💬 Ask me about: **React, Next.js, Node.js, .NET Core, Angular, PHP, and more!**
-- 🎯 2025 Goals: Contribute to open source, build SaaS side projects, and master backend architecture.
+## 🧑‍💻 About Me
+```diff
++ Full Stack Developer | Philippines
++ Creating bugs and solving them since 2022.
++ Currently exploring: .NET Core, React 19, AI-driven chatbots.
+- Caution: May break production at 3 AM.
+<!-- Divider --> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" height="4" alt="wave divider"/>
+⚔️ Tech Stack
+<p align="center"> <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,angular,html,css,tailwind,bootstrap,php,cs,dotnet,mysql,mongodb" height="50" /> </p> <!-- Divider --> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" height="4" alt="wave divider"/>
+🚀 Projects
+Project	Tech	Description
+🏡 Cogon Reservation	React, Node.js, MongoDB	A barangay reservation system with admin/user portals.
+🚚 Dragon Delivery	Angular, .NET Core	Full delivery management app with backend API.
 
----
-
-### 🛠️ Tech Stack
-<p align="left">
-  <a href="#"><img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,angular,html,css,tailwind,bootstrap,php,cs,dotnet" height="50" alt="tech stack"/></a>
-</p>
-
----
-
-### 🔥 My Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" alt="Joe's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-### ⚡ Fun Fact
-- 🦾 I automate things that I hate doing manually.
-- 🕹️ I break production more than I'd like to admit (but fix it fast!).
-
----
-
-### 📫 Let's Connect!
-<p align="left">
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://skillicons.dev/icons?i=linkedin" height="30" alt="linkedin logo" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://skillicons.dev/icons?i=gmail" height="30" alt="gmail logo" /></a>
-  <a href="https://your-portfolio-site.com"><img src="https://skillicons.dev/icons?i=wordpress" height="30" alt="portfolio logo" /></a>
-</p>
-
----
-
-### 🎬 Random Dev Meme
-<p align="center">
-  <img src="https://media.giphy.com/media/O3zRVT9hpgRZWgXzaO/giphy.gif" height="300" alt="coding meme gif" />
-</p>
-
----
-
-<!-- Feel free to replace 'your-github-username' and links with your real ones -->
+<!-- Divider --> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" height="4" alt="wave divider"/>
+📈 GitHub Analytics
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" alt="GitHub Stats" /> <br> <img src="https://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=tokyonight" alt="GitHub Streak" /> <br> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight" alt="Top Languages" /> </p> <!-- Divider --> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" height="4" alt="wave divider"/>
+☎️ Contact Me
+<p align="center"> <a href="https://linkedin.com/in/your-linkedin" target="_blank"> <img src="https://skillicons.dev/icons?i=linkedin" height="35" /> </a> <a href="mailto:your.email@example.com"> <img src="https://skillicons.dev/icons?i=gmail" height="35" /> </a> <a href="https://your-portfolio-site.com" target="_blank"> <img src="https://skillicons.dev/icons?i=wordpress" height="35" /> </a> </p> <!-- Divider --> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" height="4" alt="wave divider"/>
+💡 Random Cyber Fact
+bash
+Copy
+Edit
+>_ Did you know?
+The term "debugging" came from removing a real moth from a computer in 1947.
+<!-- Divider --> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" height="4" alt="wave divider"/> <p align="center"> <img src="https://media.giphy.com/media/UqZc3G7fobQJE/giphy.gif" width="300" alt="cyber glitch" /> </p> <!-- Final Divider --> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" height="4" alt="wave divider"/> ```
