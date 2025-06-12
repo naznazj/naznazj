@@ -1,12 +1,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:1F1F1F&height=200&section=header&text=Hey%20there%20👋%20I'm%20Joe!&fontSize=40&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Lifelong%20Learner&descSize=20&descAlignY=60" alt="Header"/>
 </p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,100:FF4500&height=200&section=header&text=Enter%20If%20You%20Dare%20💀&fontSize=40&fontAlignY=35&fontColor=FFFFFF" />
-</p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4500,100:8B0000&height=200&section=header&text=🔥%20Welcome%20to%20the%20Lava%20Zone%20🔥&fontSize=40&fontAlignY=35&fontColor=FFFFFF" />
-</p>
+
 
 ---
 
@@ -61,17 +56,20 @@
 
 ## 📫 Let's Connect!
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/joe-michael-tanilon-88b130357/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
   </a>
-  <a href="mailto:your.email@example.com" target="_blank">
+  <a href="mailto:joemichaeltanilon@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-Send-red?style=for-the-badge&logo=gmail" alt="Gmail Badge"/>
   </a>
-  <a href="https://your-portfolio-site.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-lightgrey?style=for-the-badge&logo=wordpress" alt="Portfolio Badge"/>
+  <a href="https://portfolio-j-beige.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-lightgrey?style=for-the-badge&logo=vercel" alt="Portfolio Badge"/>
   </a>
 </p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff416c,100:ff4b2b&text=👾%20Code%20&%20Play%20👾&fontSize=30&fontColor=fff&animation=blink&height=150" />
+</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F1F1F,100:58A6FF&height=120&section=footer" />
 </p>
 
