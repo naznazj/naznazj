@@ -1,6 +1,9 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:1F1F1F&height=200&section=header&text=Hey%20there%20👋%20I'm%20Joe!&fontSize=40&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Lifelong%20Learner&descSize=20&descAlignY=60" alt="Header"/>
 </p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,100:FF4500&height=200&section=header&text=Enter%20If%20You%20Dare%20💀&fontSize=40&fontAlignY=35&fontColor=FFFFFF" />
+</p>
 
 
 ---
@@ -69,3 +72,4 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff416c,100:ff4b2b&text=👾%20Code%20&%20Play%20👾&fontSize=30&fontColor=fff&animation=blink&height=150" />
 </p>
+
