@@ -4,7 +4,9 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,100:FF4500&height=200&section=header&text=Enter%20If%20You%20Dare%20💀&fontSize=40&fontAlignY=35&fontColor=FFFFFF" />
 </p>
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4500,100:8B0000&height=200&section=header&text=🔥%20Welcome%20to%20the%20Lava%20Zone%20🔥&fontSize=40&fontAlignY=35&fontColor=FFFFFF" />
+</p>
 
 ---
 
