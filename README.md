@@ -67,7 +67,7 @@
   </a>
 </p>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff416c,100:ff4b2b&text=👾%20Code%20&%20Play%20👾&fontSize=30&fontColor=fff&animation=blink&height=150" />
+  <img src="https://media.giphy.com/media/U4FkC2VqpeNRHjTDQ5/giphy.gif" width="400" alt="Chrome Dino Running" />
 </p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F1F1F,100:58A6FF&height=120&section=footer" />
