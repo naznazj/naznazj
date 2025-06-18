@@ -24,11 +24,11 @@
 
 ## 📈 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=naznazj&show_icons=true&theme=swift&hide_border=true" alt="GitHub Stats" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=naznazj&show_icons=true&theme=swift&hide_border=true" alt="GitHub Stats" width="100%" height="50px" />
   <br/>
 
 <p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naznazj&theme=swift" alt="Profile Summary Card" width="100%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naznazj&theme=swift" alt="Profile Summary Card" width="100%" height="50px"  />
 </p>
 
 ---
