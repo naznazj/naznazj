@@ -26,8 +26,6 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=naznazj&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=naznazj&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
 
 <p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naznazj&theme=tokyonight" alt="Profile Summary Card"/>
