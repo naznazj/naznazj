@@ -60,7 +60,7 @@
   <a href="mailto:joemichaeltanilon@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-Send-red?style=for-the-badge&logo=gmail" alt="Gmail Badge"/>
   </a>
-  <a href="https://portfolio-j-beige.vercel.app" target="_blank">
+  <a href="https://joe-tan.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-lightgrey?style=for-the-badge&logo=vercel" alt="Portfolio Badge"/>
   </a>
 </p>
