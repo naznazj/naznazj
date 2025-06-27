@@ -5,7 +5,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 About Me 
 - 🚀 Full Stack Developer from **the Philippines** 🇵🇭
 - 📚 Currently mastering **.NET, React, Next.js, Angular, and Node.js**
 - 🎯 2025 Goals:  
