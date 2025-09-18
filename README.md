@@ -43,7 +43,7 @@ $ git commit -m "Year of transformation"
 ## **TECHNOLOGY MATRIX**
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,angular,nodejs,express,html,css,tailwind,bootstrap,php,cs,dotnet,mysql,mongodb,git,docker,aws,vscode&perline=10&theme=dark" height="80" alt="Technology Stack" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,angular,nodejs,express,html,css,tailwind,bootstrap,php,cs,dotnet,mysql,wordpress,mongodb,git,docker,aws,vscode&perline=10&theme=dark" height="80" alt="Technology Stack" />
 </div>
 
 ---
