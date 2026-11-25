@@ -23,7 +23,7 @@ const developer = {
 };
 ```
 
-### **2025 MISSION OBJECTIVES**
+### **2027 MISSION OBJECTIVES**
 ```bash
 $ git commit -m "Year of transformation"
 > CONTRIBUTING_TO_OPENSOURCE=true
