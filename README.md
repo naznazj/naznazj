@@ -124,7 +124,7 @@ while (alive) {
     <img src="https://img.shields.io/badge/EMAIL-DIRECT-ea4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a1a" alt="Gmail"/>
   </a>
   
-  <a href="https://joe-tan.vercel.app/" target="_blank">
+  <a href="https://jtanilon.site/" target="_blank">
     <img src="https://img.shields.io/badge/PORTFOLIO-SHOWCASE-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a1a" alt="Portfolio"/>
   </a>
 
