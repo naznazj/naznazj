@@ -4,7 +4,7 @@
 
 <div align="center">
   
-### **`System.out.println("Welcome to my digital realm");`**
+### **`Console.WriteLine("Welcome to my digital realm");`**
 
 </div>
 
